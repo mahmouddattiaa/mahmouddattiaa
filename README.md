@@ -12,10 +12,10 @@ I don't just write code; I engineer <b>scalable systems</b>.
 Specializing in high-performance backends, real-time applications, and AI integration.
 </p>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:mahmouddattiaa7@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-333333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dred" />
 </a>
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/mahmoud-attia-b372b0352/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
 </a>
 </div>
