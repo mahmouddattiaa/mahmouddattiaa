@@ -1,82 +1,75 @@
-<div align="center">
-<h1 align="center">Hi, I'm Mahmoud 👋</h1>
-<h3>Full-Stack Engineer | Systems Architect | SaaS Builder</h3>
-<p>Based in Giza, Egypt 🇪🇬</p>
-
-<p>
-I don't just write code; I engineer <b>scalable systems</b>. 
-
-
-
-
-Specializing in high-performance backends, real-time applications, and AI integration.
-</p>
-
-<a href="mailto:mahmouddattiaa7@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-333333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dred" />
-</a>
-<a href="https://www.linkedin.com/in/mahmoud-attia-b372b0352/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-</div>
-
-<hr />
-
-🛠️ The Arsenal (Tech Stack)
-
-Domain
-
-Technologies
-
-Backend Engineering
-
-
-
-Frontend Architecture
-
-
-
-Data & Infrastructure
-
-
-
-Specialized
-
-
-
-<hr />
-
-🚀 Featured Engineering Projects
-
-1. MedConnect (HMS Architecture)
-
-A B2B2C medical referral platform built for scale.
-
-Architecture: Monorepo (Turborepo) with Microservices-ready structure.
-
-Core: NestJS, Prisma, PostgreSQL (Dockerized).
-
-Highlight: Complex relationship modeling for Doctors, Patients, and Clinics.
-
-2. Focus Ritual (AI-LMS)
-
-AI-Powered Learning Management System.
-
-Tech: React, Node.js, Google Gemini AI, Socket.io.
-
-Highlight: Generates flashcards from PDFs automatically using GenAI and syncs study rooms in real-time.
-
-3. AI Collaboration SaaS
-
-Real-time workspace for remote teams.
-
-Tech: WebSockets, Cloud Storage, Shadcn UI.
-
-Highlight: Seamless file sharing and chat with < 100ms latency.
-
-<hr />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmahmouddattiaa%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmahmouddattiaa%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="languages graph" />
-</div>
+# Hey, I'm Mahmoud 👋
+ 
+**Mobile & Backend Developer | AI Integration | Self-Hosted Infrastructure**  
+Cairo, Egypt 🇪🇬 ·
+ 
+---
+ 
+I build things that actually run in production — not just on localhost.
+ 
+Currently working as a Software Engineer at **QSERV** (Saudi Arabia, remote), shipping a React Native POS system on Sunmi industrial hardware that handles real financial transactions at gas stations. On the side, I freelance on automation, AI integrations, and mobile apps.
+ 
+---
+ 
+## 🚀 What I Build
+ 
+**Mobile** — Flutter & React Native with deep platform knowledge. Native Android modules (InputMethodService, VpnService, JNI bridging), hardware integration, offline-first architecture.
+ 
+**Backend** — Node.js/NestJS, Laravel, FastAPI. Event-driven systems, idempotent webhook pipelines, multi-tenant SaaS backends, payment gateway integrations.
+ 
+**Automation & Bots** — Python bots running 24/7 on self-hosted Linux. Telegram/WhatsApp automation, Google APIs, AI classification with Gemini.
+ 
+**Infrastructure** — Self-hosted Linux servers (systemd, Docker, iptables, WireGuard). Deployed across Hetzner, DigitalOcean, Render, Vercel.
+ 
+**AI Integration** — Gemini, OpenAI. Multi-model fallback chains, structured output generation, AI-powered mobile features, RAG pipelines.
+ 
+---
+ 
+## 🔧 Tech Stack
+ 
+```
+Mobile     →  Flutter · React Native · Kotlin · Android SDK · Dart
+Backend    →  Node.js · NestJS · Laravel · FastAPI · Express
+Languages  →  TypeScript · Python · PHP · Dart · Kotlin · Bash · C
+Databases  →  PostgreSQL · MongoDB · MySQL · Redis · SQLite
+AI/LLM     →  Gemini API · OpenAI API · Supabase Edge Functions
+DevOps     →  Docker · Linux · systemd · WireGuard · iptables · SSH
+Cloud      →  Hetzner · DigitalOcean · Firebase · Supabase · Vercel
+```
+ 
+---
+ 
+## 📦 Selected Projects
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| **[Classroom Sentinel](https://github.com/mahmouddattiaa)** | 24/7 Telegram bot monitoring Google Classroom with Gemini AI classification | Python · asyncio · Gemini · systemd |
+| **[HS VPN](https://github.com/mahmouddattiaa)** | Self-hosted WireGuard VPN across 10+ Linux servers with Flutter Android client | Flutter · WireGuard · FastAPI · Kotlin |
+| **[Faseeh AI](https://github.com/mahmouddattiaa)** | Android AI keyboard — Flutter engine inside Kotlin InputMethodService, 700ms→30ms load time | Flutter · Kotlin · IME · Gemini |
+| **[QSERV POS](https://github.com/mahmouddattiaa)** | Production React Native POS on Sunmi hardware, custom JNI bridge for Mada payment gateway | React Native · Java · Android Intents |
+| **[Focus Ritual](https://github.com/mahmouddattiaa)** | AI learning platform with SM-2 spaced repetition and real-time study rooms | Node.js · Gemini · Socket.io · MongoDB |
+| **[OS Scheduler](https://github.com/mahmouddattiaa)** | Multi-process OS simulator in C — HPF, Round Robin, NRU paging MMU, SysV IPC | C · POSIX · SysV IPC · Linux |
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmouddattiaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmouddattiaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+ 
+---
+ 
+## 🎓 Background
+ 
+- **Computer Engineering** — Cairo University (Expected 2027)
+- **CompTIA A+** · **Cisco CCNA**
+- Interned at **iScore** (Egyptian Credit Bureau) — built the credit score monitoring mobile app in a high-security financial environment
+---
+ 
+## 📫 Let's Work Together
+ 
+I'm available for **Telegram/WhatsApp bots**, **AI integrations**, **Flutter/React Native apps**, and **backend systems** .
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-keplerdev.uk-blue?style=flat-square&logo=google-chrome)](https://www.keplerdev.uk)
+[![Email](https://img.shields.io/badge/Email-mahmouddattiaa7@gmail.com-red?style=flat-square&logo=gmail)](mailto:mahmouddattiaa7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahmoud-attia-b372b0352)
